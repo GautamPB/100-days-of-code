@@ -9,3 +9,11 @@ Revised function concepts in javascript
 Day 2 of #100DaysOfCode 
 Learnt about fetch and async functions in javascript
 Revised arrow functions and function calling in javascript
+
+Day 3 of #100DaysOfCode 
+Learnt arrays in JavaScript
+Learnt about axios in ReactJS
+
+Day 4 of #100DaysOfCode 
+FINALLY implemented a music API in spotify clone using fetch.
+Learnt about arrays and array functions in javascript
