@@ -17,3 +17,6 @@ Learnt about axios in ReactJS
 Day 4 of #100DaysOfCode 
 FINALLY implemented a music API in spotify clone using fetch.
 Learnt about arrays and array functions in javascript
+
+Day 5 of #100DaysOfCode 
+learnt about dot and bracket notations and object functions in javascript
